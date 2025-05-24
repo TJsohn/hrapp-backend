@@ -2,7 +2,7 @@
 
 This is the backend repository for deploying HR App on Render. (Mock API using json-server)
 
-## How to ru the backend locally
+## How to run the backend locally
 
 npm install
 npm start
