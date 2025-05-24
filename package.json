@@ -9,12 +9,12 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "dependencies": {
-    "json-server": "^1.0.0-beta.3"
-  },
   "engines": {
     "node": ">=18.0.0",
     "bun": "ignore",
     "npm": ">=7"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
   }
 }
