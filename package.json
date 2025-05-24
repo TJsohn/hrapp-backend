@@ -4,7 +4,7 @@
   "type": "module",
   "main": "server.cjs",
   "scripts": {
-    "postinstall": "npm install && ls -la node_modules/json-server",
+    "postinstall": "ls -la node_modules/json-server",
     "start": "node server.cjs"
   },
   "keywords": [],
