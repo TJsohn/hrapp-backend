@@ -11,7 +11,7 @@
   "license": "ISC",
   "description": "",
   "engines": {
-    "node": "20.x",
+    "node": ">=20 <23",
     "bun": "ignore",
     "npm": ">=7"
   },
